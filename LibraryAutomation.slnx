@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="LibraryAutomation.API/LibraryAutomation.API.csproj" />
+  <Project Path="LibraryAutomation.Application/LibraryAutomation.Application.csproj" />
+  <Project Path="LibraryAutomation.Domain/LibraryAutomation.Domain.csproj" />
+  <Project Path="LibraryAutomation.Infrastructure/LibraryAutomation.Infrastructure.csproj" />
+</Solution>
